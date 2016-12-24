@@ -1,2 +1,2 @@
-language: csharp
+language: vb
 sudo: required
